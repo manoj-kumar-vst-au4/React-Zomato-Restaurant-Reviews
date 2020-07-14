@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Zomato restaurent review App [Live Link](https://manoj-zomato-restaurent-review.netlify.app/).
 
 ## Available Scripts
 
